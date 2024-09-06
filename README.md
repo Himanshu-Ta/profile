@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Himanshu kumar singh  
 - 👀 I’m interested in Data science/Ai
-- 🌱 I'm currently working in Tiger analytics as MLE Intern
+- 🌱 I'm currently working in Tiger analytics as Application Engineer
+- 
 
 
 
